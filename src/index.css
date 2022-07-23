@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App{
+  width: 100vw;
+  height: 100vh; 
+  display: flex; 
+  align-items: center;
+  justify-content: center;
+  /* position: relative; */
+}
+
+.App .bgd{
+  /* width: 75% !important; */
+  /* height: 75% !important; */
+}
